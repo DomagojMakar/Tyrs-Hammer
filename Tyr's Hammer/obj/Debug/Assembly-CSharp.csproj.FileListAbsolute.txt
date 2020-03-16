@@ -1,0 +1,2 @@
+G:\Programiranje\Unity\2D\Tyr's Hammer\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\Programiranje\Unity\2D\Tyr's Hammer\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
